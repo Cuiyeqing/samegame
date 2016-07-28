@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>background.jpg</file>
+        <file>content/blueball.png</file>
+        <file>content/BoomBlock.qml</file>
+        <file>content/Button.qml</file>
+        <file>content/Dialog.qml</file>
+        <file>content/game.js</file>
+        <file>content/greenball.png</file>
+        <file>content/redball.png</file>
+        <file>highscores/score_data.xml</file>
+    </qresource>
+</RCC>
